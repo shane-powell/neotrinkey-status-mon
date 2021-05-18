@@ -1,0 +1,1 @@
+Adafruit CircuitPython 6.2.0 on 2021-04-05; Adafruit NeoPixel Trinkey M0 with samd21e18
